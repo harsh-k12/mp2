@@ -1,0 +1,12 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: rgb(165, 165, 165);  
+}
+
+.log{
+    font-size: 40px;
+    position: relative;
+    border-radius: 3px;
+    color: black;
+    padding-bottom: 50px;
+}
